@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/CursorHW_19/static/js/main.ae91402f.chunk.js",
+    "main.js.map": "/CursorHW_19/static/js/main.ae91402f.chunk.js.map",
+    "runtime-main.js": "/CursorHW_19/static/js/runtime-main.53ac84ed.js",
+    "runtime-main.js.map": "/CursorHW_19/static/js/runtime-main.53ac84ed.js.map",
+    "static/js/2.d3faa435.chunk.js": "/CursorHW_19/static/js/2.d3faa435.chunk.js",
+    "static/js/2.d3faa435.chunk.js.map": "/CursorHW_19/static/js/2.d3faa435.chunk.js.map",
+    "index.html": "/CursorHW_19/index.html",
+    "precache-manifest.628b3e42c65ad083065195962fd8fa7a.js": "/CursorHW_19/precache-manifest.628b3e42c65ad083065195962fd8fa7a.js",
+    "service-worker.js": "/CursorHW_19/service-worker.js",
+    "static/js/2.d3faa435.chunk.js.LICENSE.txt": "/CursorHW_19/static/js/2.d3faa435.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ac84ed.js",
+    "static/js/2.d3faa435.chunk.js",
+    "static/js/main.ae91402f.chunk.js"
+  ]
+}
